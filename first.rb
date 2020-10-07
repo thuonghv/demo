@@ -1,1 +1,1 @@
-puts "hêlo"
+puts ""
